@@ -1,0 +1,7 @@
+/home/ubuntu/Downloads/camel/examples/camel-example-spring-boot-rest-jpa/src/main/java/org/apache/camel/example/spring/boot/rest/jpa/OrderService.java
+/home/ubuntu/Downloads/camel/examples/camel-example-spring-boot-rest-jpa/src/main/java/org/apache/camel/example/spring/boot/rest/jpa/Database.java
+/home/ubuntu/Downloads/camel/examples/camel-example-spring-boot-rest-jpa/src/main/java/org/apache/camel/example/spring/boot/rest/jpa/Application.java
+/home/ubuntu/Downloads/camel/examples/camel-example-spring-boot-rest-jpa/src/main/java/org/apache/camel/example/spring/boot/rest/jpa/OrderRepository.java
+/home/ubuntu/Downloads/camel/examples/camel-example-spring-boot-rest-jpa/src/main/java/org/apache/camel/example/spring/boot/rest/jpa/BookRepository.java
+/home/ubuntu/Downloads/camel/examples/camel-example-spring-boot-rest-jpa/src/main/java/org/apache/camel/example/spring/boot/rest/jpa/Book.java
+/home/ubuntu/Downloads/camel/examples/camel-example-spring-boot-rest-jpa/src/main/java/org/apache/camel/example/spring/boot/rest/jpa/Order.java

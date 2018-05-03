@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1525326665048
+Build-Jdk: 1.8.0_171
+Built-By: ubuntu
+Bundle-Description: An example demonstrating how to use Camel REST DSL w
+ ith JPA to expose a RESTful API that performs CRUD operations on a data
+ base
+Bundle-DocURL: https://www.apache.org/
+Bundle-License: https://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: camel-example-spring-boot-rest-jpa
+Bundle-SymbolicName: camel-example-spring-boot-rest-jpa
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 2.22.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Implementation-Title: Camel :: Example :: Spring Boot REST / JPA
+Implementation-URL: http://camel.apache.org/camel-parent/examples/camel-
+ example-spring-boot-rest-jpa
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Vendor-Id: org.apache.camel.example
+Implementation-Version: 2.22.0-SNAPSHOT
+Import-Package: org.apache.camel.builder;version="[2.22,2.23)",org.apach
+ e.camel.component.jpa;version="[2.22,2.23)",org.apache.camel.model;vers
+ ion="[2.22,2.23)",org.apache.camel.model.rest;version="[2.22,2.23)",org
+ .springframework.beans.factory.annotation;version="[4.3,6)",org.springf
+ ramework.context;version="[4.3,6)",org.springframework.data.repository;
+ version="[4.3,6)",org.springframework.stereotype;version="[4.3,6)",java
+ x.persistence;version="[1.1,3)",org.osgi.framework;version="[1.5,2)",or
+ g.osgi.framework.wiring;version="[1.0,2)"
+Karaf-Info: Camel;camel-example-spring-boot-rest-jpa=2.22.0-SNAPSHOT
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Specification-Title: Camel :: Example :: Spring Boot REST / JPA
+Specification-Vendor: The Apache Software Foundation
+Specification-Version: 2.22.0-SNAPSHOT
+Tool: Bnd-3.5.0.201709291849
